@@ -36,7 +36,7 @@ def extract_currency(text):
 
 # Sample text for testing
 sample_text = """
-    Contact us at user@example.com or visit https://www.example.com for details.
+    Contact us at aterogayo@gmail.com or visit https://www.aterogayo@gmail.com for details.
     Call (123) 456-7890 or 123-456-7890.
     Your credit card number is 1234-5678-9012-3456.
     The event starts at 14:30 or 2:30 PM.
